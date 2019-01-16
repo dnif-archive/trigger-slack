@@ -1,0 +1,2 @@
+trigger_plugins:
+   SLACK_TOKEN: <ADD_Your_Slack_Bot_User_OAuth_Access_Token>
